@@ -1,0 +1,15 @@
+# Secrets & credentials
+.env
+*.env
+
+# WorldQuant platform data (keep local — NDA)
+Data and operators/
+
+# Local caches & alpha pools
+my_alphas_cache.json
+submitted_alphas.json
+*.cache.json
+
+# Python
+__pycache__/
+*.pyc
